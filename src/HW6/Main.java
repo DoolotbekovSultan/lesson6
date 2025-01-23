@@ -35,6 +35,7 @@ public class Main {
         skeleton1.setWeapon(skeleton1Weapon);
         skeleton1.setDamage(75);
         skeleton1.setHealth(700);
+        skeleton1.setNumberOfArrows(50);
 
         // Вывод информации о скелете 1
         System.out.println("Skeleton1 {");
@@ -54,6 +55,7 @@ public class Main {
         skeleton2.setWeapon(skeleton2Weapon);
         skeleton2.setDamage(100);
         skeleton2.setHealth(600);
+        skeleton2.setNumberOfArrows(45);
 
         // Вывод информации о скелете 2
         System.out.println("Skeleton2 {");
